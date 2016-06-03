@@ -1,6 +1,6 @@
 /**
  * Basic boost converter with PID loop for feedback control
- * 
+ *  http://mcuhq.com/29/arduino-dc-dc-boost-converter-design-circuit-with-control-loop
  * @author Justin Bauer
  * @date June 3 2016
  * @see http://mcuhq.com
