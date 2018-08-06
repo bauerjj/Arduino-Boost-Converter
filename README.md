@@ -28,7 +28,7 @@ This circuit can safely boost a lower voltage input to a higher output voltage. 
 These are the parts I used, however please note that digikey stock fluctuates over the years and so the exact model shown does not need to be used.
 
 | RefDes   |   Digkey | Description |
-|----------|:-------------:|------:|:-------:|
+|----------|:-------------:|------:|
 | L1 | [811-1335-ND](https://www.digikey.com/product-detail/en/murata-power-solutions-inc/1433428C/811-1335-ND/1924824) | IND 330UH 2.8A 150 MOHM |
 | Q1 |  [IRLI640GPBF-ND](https://www.digikey.com/product-detail/en/vishay-siliconix/IRLI640GPBF/IRLI640GPBF-ND/812191)  | MOSFET N-CH 200V 9.9A TO220FP |
 | D1 |   [497-3216-1-ND](https://www.digikey.com/product-detail/en/stmicroelectronics/STPS3150RL/497-3216-1-ND/654568)  | DIODE SCHOTTKY 150V 3A |
